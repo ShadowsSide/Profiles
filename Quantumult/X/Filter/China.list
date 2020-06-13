@@ -39,10 +39,6 @@ DOMAIN-SUFFIX,biliapi.net,DIRECT
 DOMAIN-SUFFIX,bilibili.com,DIRECT
 DOMAIN-SUFFIX,bilibili.tv,DIRECT
 DOMAIN-SUFFIX,hdslb.com,DIRECT
-# > Blizzard
-DOMAIN-SUFFIX,blizzard.com,DIRECT
-DOMAIN-SUFFIX,battle.net,DIRECT
-DOMAIN,blzddist1-a.akamaihd.net,DIRECT
 # > ByteDance
 DOMAIN-SUFFIX,feiliao.com,DIRECT
 DOMAIN-SUFFIX,pstatp.com,DIRECT
@@ -140,25 +136,6 @@ DOMAIN-SUFFIX,zmz2019.com,DIRECT
 DOMAIN-SUFFIX,zmzapi.com,DIRECT
 DOMAIN-SUFFIX,zmzapi.net,DIRECT
 DOMAIN-SUFFIX,zmzfile.com,DIRECT
-# > Content Delivery Network
-DOMAIN-SUFFIX,ccgslb.com,DIRECT
-DOMAIN-SUFFIX,ccgslb.net,DIRECT
-DOMAIN-SUFFIX,chinanetcenter.com,DIRECT
-DOMAIN-SUFFIX,meixincdn.com,DIRECT
-DOMAIN-SUFFIX,ourdvs.com,DIRECT
-DOMAIN-SUFFIX,staticdn.net,DIRECT
-DOMAIN-SUFFIX,wangsu.com,DIRECT
-# > IP Query
-DOMAIN-SUFFIX,ipip.net,DIRECT
-DOMAIN-SUFFIX,ip.la,DIRECT
-DOMAIN-SUFFIX,ip-cdn.com,DIRECT
-DOMAIN-SUFFIX,ipv6-test.com,DIRECT
-DOMAIN-SUFFIX,test-ipv6.com,DIRECT
-DOMAIN-SUFFIX,whatismyip.com,DIRECT
-# > Speed Test
-# DOMAIN-SUFFIX,speedtest.net,DIRECT
-DOMAIN-SUFFIX,netspeedtestmaster.com,DIRECT
-DOMAIN,speedtest.macpaw.com,DIRECT
 # > Private Tracker
 DOMAIN-SUFFIX,awesome-hd.me,DIRECT
 DOMAIN-SUFFIX,broadcasthe.net,DIRECT
